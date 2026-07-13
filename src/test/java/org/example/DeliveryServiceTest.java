@@ -121,7 +121,7 @@ class DeliveryServiceTest {
         }
     }
 
-    //ДИНАМИЧЕСКИЕ ТЕСТЫ)
+    //ДИНАМИЧЕСКИЕ ТЕСТЫ
     @TestFactory
     @DisplayName("Динамическая фабрика тестов для проверки минимальной стоимости")
     @Tag("dynamic")
